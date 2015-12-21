@@ -83,7 +83,7 @@ blockquote {
 }
 @media (min-width: 800px) {
   blockquote {
-    padding: 0 75px;
+    padding: 0 0 0 75px;
   }
   blockquote:before {
     content: '';

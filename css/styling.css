@@ -33,7 +33,7 @@ h2 {
   font-size: 4rem;
   line-height: 4.8rem;
   font-weight: 800;
-  max-width: 714px;
+  max-width: 50rem;
   margin-left: auto;
   margin-right: auto;
 }
@@ -48,11 +48,6 @@ h2 {
 .blockquote-cite + h2 {
   margin-top: 0;
 }
-@media (max-width: 800px) {
-  .blockquote-cite + h2 {
-    margin-top: -3rem;
-  }
-}
 p {
   margin: 0;
   margin-bottom: 22px;
@@ -61,7 +56,7 @@ p {
   line-height: 28px;
   font-size: 1.8rem;
   line-height: 2.8rem;
-  max-width: 714px;
+  max-width: 50rem;
   margin-left: auto;
   margin-right: auto;
 }
@@ -142,7 +137,7 @@ blockquote:before {
 }
 
 .logo {
-  background: url('/images/wunder-principles.svg') 0 0 no-repeat;
+  background: url('../images/wunder-principles.svg') 0 0 no-repeat;
   background-size: 100% auto;
   height: 0;
   display: block;
@@ -154,7 +149,7 @@ blockquote:before {
 
 .site-header {
   display: flex;
-  max-width: 714px;
+  max-width: 50rem;
   margin-left: auto;
   margin-right: auto;
 }

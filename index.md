@@ -10,14 +10,20 @@ These are the values that make us who we are. They push us to be better and to a
 ## We are Open
 
 We push openness and transparency to new extremes. Everything we create is open by default. We are highly collaborative and work easily and often with others, including our clients, open source communities, and other firms in our industry. We share our knowledge and experience widely. We're great listeners, curious and always open to ideas and feedback. We communicate clearly and often.
+<div class="story-teaser__container">
+  <a href="#open1" class="story-teaser">
+    <blockquote>
+      <p>When we were selected as one of the providers of a project for the city of Turku, we saw an opportunity to push our openness to new extremes.</p>
+    </blockquote>
+    <p class="story-teaser__action">Read more</p>
+  </a>
 
-> When we selected as one of the providers for Drive Turku, a public sector project for the city of Turku, we saw an opportunity to push our openess to new extremes. What if all three agencies involved together and share the budget equally and manage the work together?
->
-> It was a bold move and it worked out well. All team members were treated equally regardless of company. It also kept our code quality high, we knew that our competition would be reviewing our code, we wouldn't want to take shortcuts or leave technical debt.
+  {% include empty-teaser.html %}
+  {% include empty-teaser.html %}
 
-<div class="blockquote-cite"><img class="blockquote-cite__image" src="https:\/\/hub.wunder.io\/sites\/default\/files\/styles\/medium\/public\/pictures\/juha-niemi.png?itok=hOBMvr2S"/>
-  <h3 class="blockquote-cite__name">Juha Niemi, Finland</h3>
 </div>
+
+{% include overlay.html %}
 
 ## We are Professional
 

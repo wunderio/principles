@@ -1,11 +1,11 @@
 <a href="#{{include.id}}" class="story-teaser">
   <blockquote>
+    <div class="story-teaser__image ">
+      <div class="blockquote-cite blockquote-cite--{{include.author_name | slugify}}"><img class="blockquote-cite__image" src="{{include.author_image}}"/>
+      </div>
+    </div>
     <p>{{include.teaser}}</p>
   </blockquote>
-  <div class="story-teaser__image ">
-    <div class="blockquote-cite blockquote-cite--{{include.author_name | slugify}}"><img class="blockquote-cite__image" src="{{include.author_image}}"/>
-    </div>
-  </div>
   <p class="story-teaser__action">Read more</p>
 </a>
 

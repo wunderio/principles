@@ -148,6 +148,7 @@ blockquote p {
 .blockquote-cite__image {
   width: 15rem;
   -webkit-clip-path: circle(50px at 160px 50px);
+  clip-path: circle(50px at 160px 50px);
   display: inline-block;
   margin-left: -6rem;
   margin-right: -1rem;
@@ -158,8 +159,8 @@ blockquote p {
   }
 }
 .blockquote-cite--florian-huber-germany .blockquote-cite__image {
-  padding-left: 4rem;
-  margin-right: -5rem;
+  padding-left: 4.5rem;
+  margin-right: -5.5rem;
 }
 .blockquote-cite--maarja-leena-saar-estonia .blockquote-cite__image {
   padding-left: 3rem;
@@ -265,8 +266,8 @@ blockquote p {
 }
 .story-teaser__image {
   float: right;
-  margin-top: -1em;
-  shape-outside: circle(50% at 50% 0);
+  margin-top: 0.35em;
+  shape-outside: circle(50% at 50% 55%);
 }
 
 .overlay {
